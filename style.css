@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-image: linear-gradient(#63a9bb, #191970);
+}
+
+.cabecalho {
+    color: rgb(247, 243, 243);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
