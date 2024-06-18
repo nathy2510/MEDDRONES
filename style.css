@@ -5,24 +5,4 @@
 
 }
 
-body {
-    background-image: linear-gradient(#63a9bb, #a4d3e9);
-}
-
-.cabecalho {
-    color: rgb(247, 243, 243);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.rodapé {
-    color: white;
-    text-align: center;
-    justify-content: center;
-    margin: 50px 0px 0px 0px;
-    background-color: rgb(55, 85, 255);
-    display: flex;
-
-    width: 100%;
+.center
