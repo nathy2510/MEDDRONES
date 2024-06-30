@@ -15,3 +15,15 @@ nav{
     background-color: black ;
     height: 8vh;
 }
+.nav-list{
+    display: flex;
+    gap: 32px;
+    list-style: none;
+  }
+  
+  .nav-list a {
+    font-size: 18px;
+    color: #fff;
+    padding-block: 16px;
+  }
+}
