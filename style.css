@@ -25,6 +25,7 @@ nav{
 .medicamentos{ 
     justify-content: space-around;
     align-items:center;
-    width: 100px;;
+    width: 100px;
+    padding: 10;
 }
      
