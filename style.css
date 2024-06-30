@@ -25,7 +25,8 @@ nav{
 .medicamentos{ 
     justify-content: space-around;
     align-items:center;
-
+    width: 100px;
+    padding: 20px 4%; 
     
 }
      @media screen and (max-width:1020px){
@@ -44,6 +45,6 @@ nav{
         .tela-div-conteudo{justify-content: space-around;
         align-items:center;
         width: 100px;
-        padding: 20px 4%; 
+       \
 
     }
