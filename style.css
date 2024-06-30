@@ -41,9 +41,9 @@ nav{
             width: 70%;
 
         }
-    .tela-inicial{justify-content: space-around;
+        .tela-div-conteudo{justify-content: space-around;
         align-items:center;
         width: 100px;
-        padding: 20px 4%;
+        padding: 20px 4%; 
 
     }
