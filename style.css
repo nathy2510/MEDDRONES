@@ -26,7 +26,7 @@ nav{
     justify-content: space-around;
     align-items:center;
     width: 100px;
-    padding: 20;
+    padding: 20px 4%;
 }
      @media screen and (max-width:1020px){
         .nav-list{ display:none;
@@ -38,4 +38,6 @@ nav{
             height: 100px;
             position: fixed;
             right: 0%;
+            width: 70%;
         }
+        
