@@ -11,7 +11,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
     background-color: black ;
     height: 8vh;
 }
