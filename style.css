@@ -12,7 +12,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     
-    background-color: black ;
+    background-color: rgb(245, 237, 237) ;
     height: 8vh;
 }
 .nav-list{
@@ -21,7 +21,7 @@ nav{
     list-style: none;
   }
   
-  .nav-list a {
+  .nav-list a {\
     font-size: 18px;
     color: #fff;
     padding-block: 16px;
