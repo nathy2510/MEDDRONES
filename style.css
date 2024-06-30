@@ -8,7 +8,7 @@
 }
 .rodape{
 
-    background: -moz-linear-gradient( right) aqua;
+    background: linear-gradient( right) aqua;
     color: white;
     text-align: center;
     padding: 10px;
