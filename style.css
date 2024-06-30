@@ -28,4 +28,14 @@ nav{
     width: 100px;
     padding: 20;
 }
-     
+     @media screen and (max-width:1020px){
+        .nav-list{ display:none;
+        }
+     }
+        
+        .menu-mobile{
+            background-color: rgb(39, 39, 199);
+            height: 100px;
+            position: fixed;
+            right: 0%;
+        }
