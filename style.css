@@ -5,26 +5,15 @@
     background-color: rgb(75, 23, 218);
 
 }
+}
+.rodape{
 
-.center{
-    display:flex;
-    flex-wrap: wrap;
-    margin: 0 auto;
-    padding: 0 2%;
-}
-.formulario{
-    padding: 20px 0;
-}
-.logo{
-    width: 50%;
-}
-.menu{
-    width: 50;
-    text-align: right;
-}
-.menu{
-    color: aqua;
-    text-decoration:none;
-    font-weight: bold;
-    margin: right 15px;;
+    background: -moz-linear-gradient( right) aqua;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
 }
