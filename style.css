@@ -42,6 +42,10 @@ nav{
             width: 70%;
 
         }
-    z
-
+    .formulario{
+        justify-content: space-around;
+        align-items:center;
+        width: 100px;
+        padding: 240px 4%
+    }
     }
