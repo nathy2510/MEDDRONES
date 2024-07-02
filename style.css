@@ -27,23 +27,16 @@ nav{
      @media screen and (max-width:1020px){
         .nav-list{ display:none;
         }
-     }
-        
-        .menu-mobile{
-            background-color: rgb(39, 39, 199);
-            height: 100px;
-            position: fixed;
-            right: 0%;
-            width: 70%;
+    
 
-        }
+    
     .medicamento{
         justify-content: space-around;
         align-items:center;
         width: 100px;
         padding: 20px 4%;
     }
-@media screen and (min-width: 1728) {
+@media screen and (min-width: 1728px) {
     .nav-list{ display:none;
 }
 
@@ -53,4 +46,7 @@ nav{
 h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: 3rem;
+}
+@media screen and (min-width: 604px) and (max-width: 948px) {
+    
 }
