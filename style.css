@@ -43,4 +43,7 @@ nav{
         width: 100px;
         padding: 20px 4%;
     }
-    
+    .inicial-titulo{
+        margin: 10px;
+        letter-spacing: 2;
+    }
