@@ -50,3 +50,12 @@ h1{
 @media screen and (min-width: 604px) and (max-width: 948px) {
     
 }
+@media screen and (min-width: 948px) {
+    .rodapé {
+        color: white;
+        text-align: center;
+        justify-content: center;
+        margin: 50px 0px 0px 0px;
+        background-color: rgb(112, 148, 189);
+        display: flex;
+        width: 100%;
